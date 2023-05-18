@@ -1,6 +1,6 @@
 
 sim_dir = '/data/mosaiks/simulations_normalized/'
-FEATURES_FOLDER = '/data/mosaiks/features/replication'
+FEATURES_FOLDER = '/data/mosaiks/replication/features/'
 FEATURES_FOLDER_1_TILE = '/data/mosaiks/replication/features_1_tile_per_region/'
 
 dataset_keys = {
